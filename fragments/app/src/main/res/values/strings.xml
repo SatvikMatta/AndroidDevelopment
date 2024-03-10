@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fragments</string>
+    <string name="greeting">Hello %1$s</string>
+    <string name="click_me">Click me %1$d</string>
+    <string name="greeting2">Hello Rock Star</string>
+    <string name="clicked_message">I\'ve been clicked</string>
+</resources>

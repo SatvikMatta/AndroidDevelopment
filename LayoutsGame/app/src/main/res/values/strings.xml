@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LayoutsGame</string>
+    <string name="level_1">Level 1</string>
+    <string name="left">left</string>
+    <string name="right">right</string>
+    <string name="which_one_is_right">Which one is Right?</string>
+    <string name="press_to_start">Press to Start!</string>
+    <string name="right_is_always_right">right is always right</string>
+    <string name="level_2">Level 2</string>
+    <string name="hello">hello</string>
+    <string name="no">no</string>
+    <string name="level_3">Level 3</string>
+    <string name="good_job_now_do_it_again">Good Job, Now Do it Again!</string>
+    <string name="yes">yes</string>
+    <string name="level_4">Level 4</string>
+    <string name="level_5">Level 5</string>
+    <string name="congrats">Congrats!!!</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image-to-Speechinator</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="verbalize_text">Verbalize Text</string>
+</resources>

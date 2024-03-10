@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Photos</string>
+    <string name="temp_text">Temp Text</string>
+    <string name="caverns">Caverns</string>
+    <string name="waterfall">Waterfall</string>
+    <string name="deer">Deer</string>
+    <string name="lake">Lake</string>
+    <string name="photos_by_satvik">Photos by Satvik!</string>
+</resources>

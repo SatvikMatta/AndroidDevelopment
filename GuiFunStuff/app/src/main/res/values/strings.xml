@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SatvikFunCalc2</string>
+    <string name="answer">Answer</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="add">Add</string>
+    <string name="multiply">Multiply</string>
+    <string name="subtract">Subtract</string>
+    <string name="divide">Divide</string>
+    <string name="calculate">Calculate</string>
+    <string name="error">Error</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fast Corners</string>
+    <string name="press_to_start">Press to Start!</string>
+    <string name="reset_score">Reset Score</string>
+    <string name="mode_2">Mode: 2</string>
+    <string name="lowest_time_1">Lowest Time: -1</string>
+    <string name="top_left">Top Left</string>
+    <string name="top_right">Top Right</string>
+    <string name="bottom_left">Bottom Left</string>
+    <string name="bottom_right">Bottom Right</string>
+</resources>
